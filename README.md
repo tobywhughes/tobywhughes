@@ -1,6 +1,7 @@
 Black Lives Matter
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tobywhughes&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobywhughes)](https://github.com/tobywhughes/github-readme-stats)
 
 <!--
 **tobywhughes/tobywhughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
